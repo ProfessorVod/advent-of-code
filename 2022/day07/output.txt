@@ -1,0 +1,1173 @@
+{
+  '/': {
+    name: '/',
+    size: 0,
+    selfSize: 428307,
+    parent: null,
+    childDirectories: [ 'dfmhjhd', 'hztjntff', 'rvstq', 'sjt', 'wrmm' ],
+    files: [ 'ghpqs', 'whhj.pqt' ]
+  },
+  dfmhjhd: {
+    name: 'dfmhjhd',
+    size: 0,
+    selfSize: 314974,
+    parent: '/',
+    childDirectories: [],
+    files: [ 'ngtqtf', 'wfgqtw.sqr' ]
+  },
+  hztjntff: {
+    name: 'hztjntff',
+    size: 0,
+    selfSize: 270565,
+    parent: 'csvhwb',
+    childDirectories: [],
+    files: [ 'ncgnjp.zqb', 'zjnll.zjl' ]
+  },
+  rvstq: {
+    name: 'rvstq',
+    size: 0,
+    selfSize: 597067,
+    parent: '/',
+    childDirectories: [ 'nzdgz', 'vtlj', 'wmjbt', 'wrmm', 'wrsmnpwf' ],
+    files: [ 'bqg', 'frcqrdm', 'hztjntff', 'ldmtcrq.dcs', 'wrmm.cjh' ]
+  },
+  sjt: {
+    name: 'sjt',
+    size: 0,
+    selfSize: 327504,
+    parent: '/',
+    childDirectories: [ 'cwsf', 'nzdgz', 'qsd', 'rdzsr', 'zgrf', 'zmtmr' ],
+    files: [ 'tqqvtzz.gzq', 'wnbvvz' ]
+  },
+  wrmm: {
+    name: 'wrmm',
+    size: 0,
+    selfSize: 366424,
+    parent: 'qzlt',
+    childDirectories: [ 'mvrqsc' ],
+    files: [ 'frcqrdm', 'zjnll.zjl' ]
+  },
+  cwsf: {
+    name: 'cwsf',
+    size: 0,
+    selfSize: 546237,
+    parent: 'qmwpfp',
+    childDirectories: [ 'wlpcb' ],
+    files: [ 'ngmsjfj.bvs', 'snhqbcqc', 'snj.ltq', 'vppzwd.ztb' ]
+  },
+  sthqhrc: {
+    name: 'sthqhrc',
+    size: 0,
+    selfSize: 45847,
+    parent: 'hztjntff',
+    childDirectories: [],
+    files: [ 'vzntwhzl.htf' ]
+  },
+  msr: {
+    name: 'msr',
+    size: 0,
+    selfSize: 272198,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'hwtj' ]
+  },
+  nzdgz: {
+    name: 'nzdgz',
+    size: 0,
+    selfSize: 121541,
+    parent: 'cwsf',
+    childDirectories: [ 'qscww', 'tdthnm' ],
+    files: [ 'jlncd.vgb' ]
+  },
+  vtlj: {
+    name: 'vtlj',
+    size: 0,
+    selfSize: 594215,
+    parent: 'rvstq',
+    childDirectories: [ 'hztjntff', 'tzwfnn', 'wrmm' ],
+    files: [ 'cmwpcdrj.zlc', 'fllj.vfg', 'frcqrdm', 'hwtj', 'hztjntff.gzd' ]
+  },
+  wmjbt: {
+    name: 'wmjbt',
+    size: 0,
+    selfSize: 31392,
+    parent: 'rvstq',
+    childDirectories: [
+      'bpqjsnr', 'bqg',
+      'cwsf',    'vlhr',
+      'wrmm',    'zgljrz',
+      'zgt'
+    ],
+    files: [ 'ths.lpc' ]
+  },
+  wrsmnpwf: {
+    name: 'wrsmnpwf',
+    size: 0,
+    selfSize: 205662,
+    parent: 'rvstq',
+    childDirectories: [],
+    files: [ 'lsb' ]
+  },
+  fplqm: {
+    name: 'fplqm',
+    size: 0,
+    selfSize: 325552,
+    parent: 'nzdgz',
+    childDirectories: [ 'cwsf', 'cwzstq' ],
+    files: [ 'mdcnwnng', 'nzdgz' ]
+  },
+  hzpqfj: {
+    name: 'hzpqfj',
+    size: 0,
+    selfSize: 749058,
+    parent: 'nzdgz',
+    childDirectories: [ 'sztz' ],
+    files: [ 'hwtj', 'lsb', 'svttl.bml', 'zjnll.zjl', 'zwj' ]
+  },
+  jcszc: {
+    name: 'jcszc',
+    size: 0,
+    selfSize: 341563,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'vmhfdm.lrc' ]
+  },
+  nzwzq: {
+    name: 'nzwzq',
+    size: 0,
+    selfSize: 6875,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'dbqbstqp' ]
+  },
+  prbptvql: {
+    name: 'prbptvql',
+    size: 0,
+    selfSize: 177069,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'zjnll.zjl' ]
+  },
+  tnpshhml: {
+    name: 'tnpshhml',
+    size: 0,
+    selfSize: 227272,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'jjdplm.wjb' ]
+  },
+  tsjsfg: {
+    name: 'tsjsfg',
+    size: 0,
+    selfSize: 470189,
+    parent: 'nzdgz',
+    childDirectories: [ 'fjhjl' ],
+    files: [ 'hwtj', 'lsb', 'lvssbtc.fwq' ]
+  },
+  cwzstq: {
+    name: 'cwzstq',
+    size: 0,
+    selfSize: 305925,
+    parent: 'fplqm',
+    childDirectories: [],
+    files: [ 'gjfbqpr.jjv' ]
+  },
+  fld: {
+    name: 'fld',
+    size: 0,
+    selfSize: 0,
+    parent: 'cwsf',
+    childDirectories: [ 'jdpz', 'trjltfq' ],
+    files: []
+  },
+  jdpz: {
+    name: 'jdpz',
+    size: 0,
+    selfSize: 299969,
+    parent: 'fld',
+    childDirectories: [],
+    files: [ 'fvgpbf.lps' ]
+  },
+  trjltfq: {
+    name: 'trjltfq',
+    size: 0,
+    selfSize: 30081,
+    parent: 'fld',
+    childDirectories: [],
+    files: [ 'tdzjl.jrw' ]
+  },
+  sztz: {
+    name: 'sztz',
+    size: 0,
+    selfSize: 0,
+    parent: 'hzpqfj',
+    childDirectories: [ 'mjmbld', 'nzdgz', 'wrmm' ],
+    files: []
+  },
+  mjmbld: {
+    name: 'mjmbld',
+    size: 0,
+    selfSize: 101870,
+    parent: 'sztz',
+    childDirectories: [],
+    files: [ 'hwtj' ]
+  },
+  tfdnvnn: {
+    name: 'tfdnvnn',
+    size: 0,
+    selfSize: 108268,
+    parent: 'hztjntff',
+    childDirectories: [],
+    files: [ 'vwtj' ]
+  },
+  fjhjl: {
+    name: 'fjhjl',
+    size: 0,
+    selfSize: 54983,
+    parent: 'tsjsfg',
+    childDirectories: [],
+    files: [ 'swqt.jsm' ]
+  },
+  tzwfnn: {
+    name: 'tzwfnn',
+    size: 0,
+    selfSize: 0,
+    parent: 'vtlj',
+    childDirectories: [ 'grznq' ],
+    files: []
+  },
+  grznq: {
+    name: 'grznq',
+    size: 0,
+    selfSize: 282278,
+    parent: 'tzwfnn',
+    childDirectories: [],
+    files: [ 'pwmsds.vzr' ]
+  },
+  bpqjsnr: {
+    name: 'bpqjsnr',
+    size: 0,
+    selfSize: 132830,
+    parent: 'wmjbt',
+    childDirectories: [ 'bqg' ],
+    files: [ 'fjp' ]
+  },
+  bqg: {
+    name: 'bqg',
+    size: 0,
+    selfSize: 96072,
+    parent: 'hnwn',
+    childDirectories: [],
+    files: [ 'zdh.gpp' ]
+  },
+  vlhr: {
+    name: 'vlhr',
+    size: 0,
+    selfSize: 156011,
+    parent: 'wmjbt',
+    childDirectories: [],
+    files: [ 'nzdgz.gct' ]
+  },
+  zgljrz: {
+    name: 'zgljrz',
+    size: 0,
+    selfSize: 134867,
+    parent: 'wmjbt',
+    childDirectories: [],
+    files: [ 'fmndz.mhf' ]
+  },
+  zgt: {
+    name: 'zgt',
+    size: 0,
+    selfSize: 350435,
+    parent: 'wmjbt',
+    childDirectories: [],
+    files: [ 'hwtj', 'zjnll.zjl' ]
+  },
+  jvzn: {
+    name: 'jvzn',
+    size: 0,
+    selfSize: 265757,
+    parent: 'bqg',
+    childDirectories: [],
+    files: [ 'clvj.bmr' ]
+  },
+  hljm: {
+    name: 'hljm',
+    size: 0,
+    selfSize: 0,
+    parent: 'hztjntff',
+    childDirectories: [ 'clblt' ],
+    files: []
+  },
+  clblt: {
+    name: 'clblt',
+    size: 0,
+    selfSize: 228450,
+    parent: 'hljm',
+    childDirectories: [ 'qdjj' ],
+    files: [ 'vzrpqlgs.zng', 'wpcp.rcw' ]
+  },
+  qdjj: {
+    name: 'qdjj',
+    size: 0,
+    selfSize: 152548,
+    parent: 'clblt',
+    childDirectories: [],
+    files: [ 'rcjzld.zfv' ]
+  },
+  ljpn: {
+    name: 'ljpn',
+    size: 0,
+    selfSize: 375882,
+    parent: 'wrmm',
+    childDirectories: [ 'cgghhhlf', 'qfwrrp', 'smpltb' ],
+    files: [ 'gzh.gww', 'lqtbm.zbg' ]
+  },
+  vzwtzl: {
+    name: 'vzwtzl',
+    size: 0,
+    selfSize: 53337,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'fggqjqvs' ]
+  },
+  wjsf: {
+    name: 'wjsf',
+    size: 0,
+    selfSize: 648792,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'nzsm.dfd', 'swhv.ghz', 'thpzp' ]
+  },
+  bstnjc: {
+    name: 'bstnjc',
+    size: 0,
+    selfSize: 11588,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'lsb' ]
+  },
+  cgghhhlf: {
+    name: 'cgghhhlf',
+    size: 0,
+    selfSize: 14765,
+    parent: 'ljpn',
+    childDirectories: [],
+    files: [ 'nvbvs.bnv' ]
+  },
+  qfwrrp: {
+    name: 'qfwrrp',
+    size: 0,
+    selfSize: 256670,
+    parent: 'ljpn',
+    childDirectories: [],
+    files: [ 'hwtj' ]
+  },
+  smpltb: {
+    name: 'smpltb',
+    size: 0,
+    selfSize: 0,
+    parent: 'ljpn',
+    childDirectories: [ 'bgvfj' ],
+    files: []
+  },
+  bgvfj: {
+    name: 'bgvfj',
+    size: 0,
+    selfSize: 65336,
+    parent: 'smpltb',
+    childDirectories: [],
+    files: [ 'fprgmh.psg' ]
+  },
+  clt: {
+    name: 'clt',
+    size: 0,
+    selfSize: 62449,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'jlwr.bds' ]
+  },
+  mjpw: {
+    name: 'mjpw',
+    size: 0,
+    selfSize: 147523,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'wrmm' ]
+  },
+  nlwpspl: {
+    name: 'nlwpspl',
+    size: 0,
+    selfSize: 764145,
+    parent: 'wrmm',
+    childDirectories: [ 'bmmmhnbc', 'jjjdlj', 'vctf' ],
+    files: [ 'cqbq.qmw', 'hwtj', 'lsb', 'mhprtvb.jnf' ]
+  },
+  qwvjnwsf: {
+    name: 'qwvjnwsf',
+    size: 0,
+    selfSize: 386684,
+    parent: 'wrmm',
+    childDirectories: [ 'hqlv' ],
+    files: [ 'bqg.csn', 'hwtj', 'nzdgz.dmw', 'sjc' ]
+  },
+  bmmmhnbc: {
+    name: 'bmmmhnbc',
+    size: 0,
+    selfSize: 808564,
+    parent: 'nlwpspl',
+    childDirectories: [ 'bldfbzr', 'cwsf', 'dmj', 'hztjntff', 'wmgwfvq' ],
+    files: [ 'frcqrdm', 'hnrc.dqv', 'lqslmd', 'lsb', 'ngh.ljt' ]
+  },
+  jjjdlj: {
+    name: 'jjjdlj',
+    size: 0,
+    selfSize: 0,
+    parent: 'nlwpspl',
+    childDirectories: [ 'dnpf', 'mwlvndml' ],
+    files: []
+  },
+  vctf: {
+    name: 'vctf',
+    size: 0,
+    selfSize: 998580,
+    parent: 'nlwpspl',
+    childDirectories: [ 'bqg', 'gcgqr', 'vbqjbq' ],
+    files: [ 'cwsf.vnq', 'hztjntff', 'hztjntff.wng', 'mzzgnztv', 'nzdgz' ]
+  },
+  bldfbzr: {
+    name: 'bldfbzr',
+    size: 0,
+    selfSize: 648169,
+    parent: 'bmmmhnbc',
+    childDirectories: [ 'bqg', 'nzdgz', 'qjzh' ],
+    files: [ 'frcqrdm', 'hcfv.jpr', 'psvfl.hlg', 'qpb.nzq' ]
+  },
+  dmj: {
+    name: 'dmj',
+    size: 0,
+    selfSize: 166520,
+    parent: 'bmmmhnbc',
+    childDirectories: [ 'bqg', 'rhd' ],
+    files: [ 'gncqrjnr.nrp', 'smgjczbq.mbh' ]
+  },
+  wmgwfvq: {
+    name: 'wmgwfvq',
+    size: 0,
+    selfSize: 192879,
+    parent: 'bmmmhnbc',
+    childDirectories: [ 'hztjntff', 'rvwhms' ],
+    files: [ 'gzm.wzc', 'jdp' ]
+  },
+  qjzh: {
+    name: 'qjzh',
+    size: 0,
+    selfSize: 162159,
+    parent: 'bldfbzr',
+    childDirectories: [],
+    files: [ 'cmn.rtc' ]
+  },
+  nhmts: {
+    name: 'nhmts',
+    size: 0,
+    selfSize: 105545,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'cwhlrfv.rlz' ]
+  },
+  tqhthh: {
+    name: 'tqhthh',
+    size: 0,
+    selfSize: 96001,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'sfmcss.rps', 'wmlmfzg.bqt' ]
+  },
+  frc: {
+    name: 'frc',
+    size: 0,
+    selfSize: 0,
+    parent: 'cwsf',
+    childDirectories: [ 'wrmm' ],
+    files: []
+  },
+  jbgrgz: {
+    name: 'jbgrgz',
+    size: 0,
+    selfSize: 213046,
+    parent: 'cwsf',
+    childDirectories: [ 'frvlnww', 'qszdtg' ],
+    files: [ 'bnlprltj', 'dttwfgs' ]
+  },
+  ctrbwhpr: {
+    name: 'ctrbwhpr',
+    size: 0,
+    selfSize: 94535,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'wrmm.fjl' ]
+  },
+  shmjt: {
+    name: 'shmjt',
+    size: 0,
+    selfSize: 6523,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'svmsvg.vvc' ]
+  },
+  frvlnww: {
+    name: 'frvlnww',
+    size: 0,
+    selfSize: 423143,
+    parent: 'jbgrgz',
+    childDirectories: [],
+    files: [ 'cjbnqm', 'mpnnb.wqb' ]
+  },
+  qszdtg: {
+    name: 'qszdtg',
+    size: 0,
+    selfSize: 497389,
+    parent: 'jbgrgz',
+    childDirectories: [],
+    files: [ 'fptpmp.fqb', 'qbpwdhqt.wtw' ]
+  },
+  rhd: {
+    name: 'rhd',
+    size: 0,
+    selfSize: 353728,
+    parent: 'dmj',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'lsb' ]
+  },
+  mczrpf: {
+    name: 'mczrpf',
+    size: 0,
+    selfSize: 575675,
+    parent: 'hztjntff',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'gvrb.lff', 'tht.bhc' ]
+  },
+  mzd: {
+    name: 'mzd',
+    size: 0,
+    selfSize: 26174,
+    parent: 'hztjntff',
+    childDirectories: [],
+    files: [ 'sgbhjft' ]
+  },
+  rvwhms: {
+    name: 'rvwhms',
+    size: 0,
+    selfSize: 314729,
+    parent: 'wmgwfvq',
+    childDirectories: [],
+    files: [ 'bcgphtl.bsc' ]
+  },
+  vhdqhfqv: {
+    name: 'vhdqhfqv',
+    size: 0,
+    selfSize: 350269,
+    parent: 'hztjntff',
+    childDirectories: [],
+    files: [ 'qgr', 'vbrc' ]
+  },
+  grlgcgrl: {
+    name: 'grlgcgrl',
+    size: 0,
+    selfSize: 164027,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'nzdgz.ptd' ]
+  },
+  nmm: {
+    name: 'nmm',
+    size: 0,
+    selfSize: 101722,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'bqg' ]
+  },
+  tlrztbh: {
+    name: 'tlrztbh',
+    size: 0,
+    selfSize: 213889,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'cwsf', 'lvdsbss.lpr' ]
+  },
+  dnpf: {
+    name: 'dnpf',
+    size: 0,
+    selfSize: 258139,
+    parent: 'jjjdlj',
+    childDirectories: [],
+    files: [ 'pgczcz', 'zjtv.jml' ]
+  },
+  mwlvndml: {
+    name: 'mwlvndml',
+    size: 0,
+    selfSize: 255297,
+    parent: 'jjjdlj',
+    childDirectories: [ 'nzdgz' ],
+    files: [ 'vdsmgqdg.sbj' ]
+  },
+  gcgqr: {
+    name: 'gcgqr',
+    size: 0,
+    selfSize: 71948,
+    parent: 'vctf',
+    childDirectories: [],
+    files: [ 'wbhbbr.rbg' ]
+  },
+  vbqjbq: {
+    name: 'vbqjbq',
+    size: 0,
+    selfSize: 0,
+    parent: 'vctf',
+    childDirectories: [ 'sltqnp' ],
+    files: []
+  },
+  sltqnp: {
+    name: 'sltqnp',
+    size: 0,
+    selfSize: 329159,
+    parent: 'vbqjbq',
+    childDirectories: [],
+    files: [ 'nvdmjq', 'qtb.tcs', 'zndbj.pgm' ]
+  },
+  hqlv: {
+    name: 'hqlv',
+    size: 0,
+    selfSize: 250002,
+    parent: 'qwvjnwsf',
+    childDirectories: [],
+    files: [ 'qcdpnc' ]
+  },
+  qsd: {
+    name: 'qsd',
+    size: 0,
+    selfSize: 0,
+    parent: 'sjt',
+    childDirectories: [ 'bqg', 'pbfc' ],
+    files: []
+  },
+  rdzsr: {
+    name: 'rdzsr',
+    size: 0,
+    selfSize: 45590,
+    parent: 'sjt',
+    childDirectories: [],
+    files: [ 'zjnll.zjl' ]
+  },
+  zgrf: {
+    name: 'zgrf',
+    size: 0,
+    selfSize: 496604,
+    parent: 'sjt',
+    childDirectories: [
+      'bqg',      'cbc',
+      'cclw',     'cwsf',
+      'fph',      'hvvvv',
+      'hztjntff', 'tqqqv'
+    ],
+    files: [ 'hcfv.jpr', 'nzwzmlqt.nvh' ]
+  },
+  zmtmr: {
+    name: 'zmtmr',
+    size: 0,
+    selfSize: 285763,
+    parent: 'sjt',
+    childDirectories: [ 'sms', 'vdn', 'vdqmtjw' ],
+    files: [ 'cwsf.qpj', 'fprft.wbq', 'hwtj', 'lmtdjgpv' ]
+  },
+  dtpf: {
+    name: 'dtpf',
+    size: 0,
+    selfSize: 417193,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'fslt.mmj' ]
+  },
+  fjtsb: {
+    name: 'fjtsb',
+    size: 0,
+    selfSize: 489881,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'lbhs', 'zjnll.zjl' ]
+  },
+  gdnnndj: {
+    name: 'gdnnndj',
+    size: 0,
+    selfSize: 0,
+    parent: 'cwsf',
+    childDirectories: [ 'sljmpls', 'zhn' ],
+    files: []
+  },
+  mfbp: {
+    name: 'mfbp',
+    size: 0,
+    selfSize: 199935,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'qwsb.vcd' ]
+  },
+  zclzqz: {
+    name: 'zclzqz',
+    size: 0,
+    selfSize: 274497,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'zjnll.zjl' ]
+  },
+  sljmpls: {
+    name: 'sljmpls',
+    size: 0,
+    selfSize: 414918,
+    parent: 'gdnnndj',
+    childDirectories: [ 'cnzhjqbm', 'cttgctwb', 'rwwmcmt' ],
+    files: [ 'hwtj', 'zjnll.zjl' ]
+  },
+  zhn: {
+    name: 'zhn',
+    size: 0,
+    selfSize: 114122,
+    parent: 'gdnnndj',
+    childDirectories: [ 'mpfvnslm', 'zlqns' ],
+    files: [ 'dbcpsqn' ]
+  },
+  cnzhjqbm: {
+    name: 'cnzhjqbm',
+    size: 0,
+    selfSize: 196818,
+    parent: 'sljmpls',
+    childDirectories: [],
+    files: [ 'frcqrdm' ]
+  },
+  cttgctwb: {
+    name: 'cttgctwb',
+    size: 0,
+    selfSize: 0,
+    parent: 'sljmpls',
+    childDirectories: [ 'bqg' ],
+    files: []
+  },
+  rwwmcmt: {
+    name: 'rwwmcmt',
+    size: 0,
+    selfSize: 363451,
+    parent: 'sljmpls',
+    childDirectories: [],
+    files: [ 'hcfv.jpr', 'nssl' ]
+  },
+  mpfvnslm: {
+    name: 'mpfvnslm',
+    size: 0,
+    selfSize: 0,
+    parent: 'zhn',
+    childDirectories: [ 'qvtr' ],
+    files: []
+  },
+  zlqns: {
+    name: 'zlqns',
+    size: 0,
+    selfSize: 36937,
+    parent: 'zhn',
+    childDirectories: [],
+    files: [ 'bgzjvvc.szm' ]
+  },
+  qvtr: {
+    name: 'qvtr',
+    size: 0,
+    selfSize: 83650,
+    parent: 'mpfvnslm',
+    childDirectories: [],
+    files: [ 'bqg.qqh' ]
+  },
+  qscww: {
+    name: 'qscww',
+    size: 0,
+    selfSize: 421186,
+    parent: 'nzdgz',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'hcfv.jpr' ]
+  },
+  tdthnm: {
+    name: 'tdthnm',
+    size: 0,
+    selfSize: 0,
+    parent: 'nzdgz',
+    childDirectories: [ 'hmq', 'tcdm' ],
+    files: []
+  },
+  hmq: {
+    name: 'hmq',
+    size: 0,
+    selfSize: 172261,
+    parent: 'tdthnm',
+    childDirectories: [],
+    files: [ 'nhpfqc.tgj' ]
+  },
+  tcdm: {
+    name: 'tcdm',
+    size: 0,
+    selfSize: 188168,
+    parent: 'tdthnm',
+    childDirectories: [],
+    files: [ 'lsb' ]
+  },
+  pbfc: {
+    name: 'pbfc',
+    size: 0,
+    selfSize: 0,
+    parent: 'qsd',
+    childDirectories: [ 'hwbdld' ],
+    files: []
+  },
+  mnrrmcc: {
+    name: 'mnrrmcc',
+    size: 0,
+    selfSize: 33961,
+    parent: 'bqg',
+    childDirectories: [],
+    files: [ 'lsb' ]
+  },
+  hwbdld: {
+    name: 'hwbdld',
+    size: 0,
+    selfSize: 287013,
+    parent: 'pbfc',
+    childDirectories: [],
+    files: [ 'hztjntff.gql', 'stqzdh.zdn' ]
+  },
+  cbc: {
+    name: 'cbc',
+    size: 0,
+    selfSize: 379249,
+    parent: 'zgrf',
+    childDirectories: [ 'dsmmcjtg', 'wrmm' ],
+    files: [ 'bznnrjtt', 'hsgwqqz.lzc' ]
+  },
+  cclw: {
+    name: 'cclw',
+    size: 0,
+    selfSize: 245438,
+    parent: 'zgrf',
+    childDirectories: [],
+    files: [ 'nzdgz.bdv' ]
+  },
+  fph: {
+    name: 'fph',
+    size: 0,
+    selfSize: 313411,
+    parent: 'zgrf',
+    childDirectories: [ 'hztjntff', 'mbgv', 'nbzvd', 'tzjtsqlj' ],
+    files: [ 'vwmsbfd.btp' ]
+  },
+  hvvvv: {
+    name: 'hvvvv',
+    size: 0,
+    selfSize: 0,
+    parent: 'zgrf',
+    childDirectories: [ 'zrpvfzz' ],
+    files: []
+  },
+  tqqqv: {
+    name: 'tqqqv',
+    size: 0,
+    selfSize: 358797,
+    parent: 'zgrf',
+    childDirectories: [ 'qmwpfp' ],
+    files: [ 'bqg.mdz', 'hcfv.jpr', 'nzdgz', 'wrmm' ]
+  },
+  dsmmcjtg: {
+    name: 'dsmmcjtg',
+    size: 0,
+    selfSize: 343038,
+    parent: 'cbc',
+    childDirectories: [],
+    files: [ 'lmtdgnll.bln', 'nzdgz.pzz' ]
+  },
+  mbgv: {
+    name: 'mbgv',
+    size: 0,
+    selfSize: 890,
+    parent: 'fph',
+    childDirectories: [],
+    files: [ 'zjnll.zjl' ]
+  },
+  nbzvd: {
+    name: 'nbzvd',
+    size: 0,
+    selfSize: 95080,
+    parent: 'fph',
+    childDirectories: [],
+    files: [ 'zvjf.zjq' ]
+  },
+  tzjtsqlj: {
+    name: 'tzjtsqlj',
+    size: 0,
+    selfSize: 224995,
+    parent: 'fph',
+    childDirectories: [],
+    files: [ 'frcqrdm' ]
+  },
+  zrpvfzz: {
+    name: 'zrpvfzz',
+    size: 0,
+    selfSize: 280153,
+    parent: 'hvvvv',
+    childDirectories: [ 'nlcds' ],
+    files: [ 'slcjdqw.wms' ]
+  },
+  nlcds: {
+    name: 'nlcds',
+    size: 0,
+    selfSize: 80960,
+    parent: 'zrpvfzz',
+    childDirectories: [],
+    files: [ 'cwsf.qtp' ]
+  },
+  fwmvqhj: {
+    name: 'fwmvqhj',
+    size: 0,
+    selfSize: 348874,
+    parent: 'hztjntff',
+    childDirectories: [ 'cwsf', 'hjgpzwf', 'njtbnt' ],
+    files: [ 'fcf.ncz', 'gllwzh.dzc' ]
+  },
+  hnwn: {
+    name: 'hnwn',
+    size: 0,
+    selfSize: 265411,
+    parent: 'hztjntff',
+    childDirectories: [ 'bqg' ],
+    files: [ 'bftcf.hdj' ]
+  },
+  hjgpzwf: {
+    name: 'hjgpzwf',
+    size: 0,
+    selfSize: 157649,
+    parent: 'fwmvqhj',
+    childDirectories: [],
+    files: [ 'jcw' ]
+  },
+  njtbnt: {
+    name: 'njtbnt',
+    size: 0,
+    selfSize: 31491,
+    parent: 'fwmvqhj',
+    childDirectories: [ 'lvhqrjzn', 'mgtjfhvf' ],
+    files: [ 'nzdgz.sgc' ]
+  },
+  lvhqrjzn: {
+    name: 'lvhqrjzn',
+    size: 0,
+    selfSize: 11465,
+    parent: 'njtbnt',
+    childDirectories: [],
+    files: [ 'rrfpsjm.fsd' ]
+  },
+  mgtjfhvf: {
+    name: 'mgtjfhvf',
+    size: 0,
+    selfSize: 0,
+    parent: 'njtbnt',
+    childDirectories: [ 'wmnwrn' ],
+    files: []
+  },
+  wmnwrn: {
+    name: 'wmnwrn',
+    size: 0,
+    selfSize: 44518,
+    parent: 'mgtjfhvf',
+    childDirectories: [],
+    files: [ 'hwtj' ]
+  },
+  jgdjp: {
+    name: 'jgdjp',
+    size: 0,
+    selfSize: 165322,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'vdpnqwq' ]
+  },
+  qzlt: {
+    name: 'qzlt',
+    size: 0,
+    selfSize: 44763,
+    parent: 'wrmm',
+    childDirectories: [ 'jcgt', 'vmsnrhb', 'wrmm' ],
+    files: [ 'cwsf.qqz' ]
+  },
+  tmzgrts: {
+    name: 'tmzgrts',
+    size: 0,
+    selfSize: 361038,
+    parent: 'wrmm',
+    childDirectories: [ 'jrbjdghc' ],
+    files: [ 'djssmcdz.nzj', 'rjtsdjqt.mht' ]
+  },
+  jcgt: {
+    name: 'jcgt',
+    size: 0,
+    selfSize: 199928,
+    parent: 'qzlt',
+    childDirectories: [],
+    files: [ 'hnl.chj' ]
+  },
+  vmsnrhb: {
+    name: 'vmsnrhb',
+    size: 0,
+    selfSize: 0,
+    parent: 'qzlt',
+    childDirectories: [ 'csvhwb', 'mnwwdf', 'pzwvh' ],
+    files: []
+  },
+  csvhwb: {
+    name: 'csvhwb',
+    size: 0,
+    selfSize: 310870,
+    parent: 'vmsnrhb',
+    childDirectories: [ 'hztjntff', 'prqf' ],
+    files: [ 'bqg.qlb', 'dtl.nws', 'nwwdct.qlc' ]
+  },
+  mnwwdf: {
+    name: 'mnwwdf',
+    size: 0,
+    selfSize: 161210,
+    parent: 'vmsnrhb',
+    childDirectories: [],
+    files: [ 'nzdgz.mjn' ]
+  },
+  pzwvh: {
+    name: 'pzwvh',
+    size: 0,
+    selfSize: 53844,
+    parent: 'vmsnrhb',
+    childDirectories: [ 'jbhjjjs', 'lql', 'wcrsqtz' ],
+    files: [ 'cwgtzgjd.ghf', 'lsb' ]
+  },
+  prqf: {
+    name: 'prqf',
+    size: 0,
+    selfSize: 782438,
+    parent: 'csvhwb',
+    childDirectories: [],
+    files: [ 'hcfv.jpr', 'hztjntff', 'jqwmltv.dmb', 'qmzpbn.ntn' ]
+  },
+  jbhjjjs: {
+    name: 'jbhjjjs',
+    size: 0,
+    selfSize: 48808,
+    parent: 'pzwvh',
+    childDirectories: [],
+    files: [ 'mhshl' ]
+  },
+  lql: {
+    name: 'lql',
+    size: 0,
+    selfSize: 0,
+    parent: 'pzwvh',
+    childDirectories: [ 'tzcjpj' ],
+    files: []
+  },
+  wcrsqtz: {
+    name: 'wcrsqtz',
+    size: 0,
+    selfSize: 342519,
+    parent: 'pzwvh',
+    childDirectories: [ 'rngvpc' ],
+    files: [ 'bqg.zmh', 'qgw' ]
+  },
+  tzcjpj: {
+    name: 'tzcjpj',
+    size: 0,
+    selfSize: 101686,
+    parent: 'lql',
+    childDirectories: [],
+    files: [ 'frcqrdm' ]
+  },
+  rngvpc: {
+    name: 'rngvpc',
+    size: 0,
+    selfSize: 220454,
+    parent: 'wcrsqtz',
+    childDirectories: [],
+    files: [ 'smfzwq.qgr' ]
+  },
+  mvrqsc: {
+    name: 'mvrqsc',
+    size: 0,
+    selfSize: 507506,
+    parent: 'wrmm',
+    childDirectories: [],
+    files: [ 'frcqrdm', 'nzdgz.qbf' ]
+  },
+  jrbjdghc: {
+    name: 'jrbjdghc',
+    size: 0,
+    selfSize: 85458,
+    parent: 'tmzgrts',
+    childDirectories: [],
+    files: [ 'frcqrdm' ]
+  },
+  qmwpfp: {
+    name: 'qmwpfp',
+    size: 0,
+    selfSize: 0,
+    parent: 'tqqqv',
+    childDirectories: [ 'cwsf', 'lndh', 'nvjsvvln' ],
+    files: []
+  },
+  lndh: {
+    name: 'lndh',
+    size: 0,
+    selfSize: 433170,
+    parent: 'qmwpfp',
+    childDirectories: [],
+    files: [ 'lvsqcvlr.bcq', 'vcpgqbl.wbw' ]
+  },
+  nvjsvvln: {
+    name: 'nvjsvvln',
+    size: 0,
+    selfSize: 288486,
+    parent: 'qmwpfp',
+    childDirectories: [],
+    files: [ 'hcfv.jpr' ]
+  },
+  wlpcb: {
+    name: 'wlpcb',
+    size: 0,
+    selfSize: 280918,
+    parent: 'cwsf',
+    childDirectories: [],
+    files: [ 'vllc.ztt' ]
+  },
+  sms: {
+    name: 'sms',
+    size: 0,
+    selfSize: 283543,
+    parent: 'zmtmr',
+    childDirectories: [],
+    files: [ 'dtsgp', 'hcfv.jpr' ]
+  },
+  vdn: {
+    name: 'vdn',
+    size: 0,
+    selfSize: 327156,
+    parent: 'zmtmr',
+    childDirectories: [],
+    files: [ 'tnmhfscw', 'wrmm.dvb' ]
+  },
+  vdqmtjw: {
+    name: 'vdqmtjw',
+    size: 0,
+    selfSize: 291828,
+    parent: 'zmtmr',
+    childDirectories: [],
+    files: [ 'hztjntff' ]
+  }
+}
+0

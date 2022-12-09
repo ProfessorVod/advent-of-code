@@ -1,0 +1,263 @@
+[
+  [
+    {
+      height: 3,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 0,
+      posY: 0
+    },
+    {
+      height: 0,
+      visibleNorth: true,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: false,
+      visible: true,
+      posX: 1,
+      posY: 0
+    },
+    {
+      height: 3,
+      visibleNorth: true,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: true,
+      visible: true,
+      posX: 2,
+      posY: 0
+    },
+    {
+      height: 7,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 3,
+      posY: 0
+    },
+    {
+      height: 3,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: false,
+      visible: true,
+      posX: 4,
+      posY: 0
+    }
+  ],
+  [
+    {
+      height: 2,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: true,
+      visible: true,
+      posX: 0,
+      posY: 1
+    },
+    {
+      height: 5,
+      visibleNorth: true,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: true,
+      visible: true,
+      posX: 1,
+      posY: 1
+    },
+    {
+      height: 5,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: false,
+      visible: true,
+      posX: 2,
+      posY: 1
+    },
+    {
+      height: 1,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: false,
+      visible: false,
+      posX: 3,
+      posY: 1
+    },
+    {
+      height: 2,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 4,
+      posY: 1
+    }
+  ],
+  [
+    {
+      height: 6,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 0,
+      posY: 2
+    },
+    {
+      height: 5,
+      visibleNorth: false,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: false,
+      visible: false,
+      posX: 1,
+      posY: 2
+    },
+    {
+      height: 3,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: false,
+      visible: false,
+      posX: 2,
+      posY: 2
+    },
+    {
+      height: 3,
+      visibleNorth: true,
+      visibleSouth: false,
+      visibleEast: true,
+      visibleWest: false,
+      visible: true,
+      posX: 3,
+      posY: 2
+    },
+    {
+      height: 2,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: true,
+      visibleWest: false,
+      visible: true,
+      posX: 4,
+      posY: 2
+    }
+  ],
+  [
+    {
+      height: 3,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: true,
+      visible: true,
+      posX: 0,
+      posY: 3
+    },
+    {
+      height: 3,
+      visibleNorth: false,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: false,
+      visible: false,
+      posX: 1,
+      posY: 3
+    },
+    {
+      height: 5,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 2,
+      posY: 3
+    },
+    {
+      height: 4,
+      visibleNorth: true,
+      visibleSouth: false,
+      visibleEast: false,
+      visibleWest: false,
+      visible: false,
+      posX: 3,
+      posY: 3
+    },
+    {
+      height: 9,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 4,
+      posY: 3
+    }
+  ],
+  [
+    {
+      height: 3,
+      visibleNorth: false,
+      visibleSouth: true,
+      visibleEast: false,
+      visibleWest: true,
+      visible: true,
+      posX: 0,
+      posY: 4
+    },
+    {
+      height: 5,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 1,
+      posY: 4
+    },
+    {
+      height: 3,
+      visibleNorth: false,
+      visibleSouth: true,
+      visibleEast: false,
+      visibleWest: false,
+      visible: true,
+      posX: 2,
+      posY: 4
+    },
+    {
+      height: 9,
+      visibleNorth: true,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: true,
+      visible: true,
+      posX: 3,
+      posY: 4
+    },
+    {
+      height: 0,
+      visibleNorth: false,
+      visibleSouth: true,
+      visibleEast: true,
+      visibleWest: false,
+      visible: true,
+      posX: 4,
+      posY: 4
+    }
+  ]
+]
+20
