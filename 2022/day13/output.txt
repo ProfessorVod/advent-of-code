@@ -1,0 +1,204 @@
+1 - Correc [1]
+oh yes
+2 - Correc [4]
+3 - Correc [7]
+4 - Incorrec
+oh yes
+5 - Correc [13]
+oh yes
+6 - Correc [16]
+oh yes
+7 - Correc [19]
+oh yes
+8 - Correc [22]
+9 - Incorrec
+10 - Correc [28]
+11 - Correc [31]
+12 - Incorrec
+oh yes
+13 - Correc [37]
+14 - Incorrec
+oh yes
+15 - Correc [43]
+16 - Incorrec
+17 - Incorrec
+18 - Incorrec
+19 - Incorrec
+20 - Incorrec
+21 - Incorrec
+22 - Incorrec
+23 - Correc [67]
+24 - Incorrec
+25 - Incorrec
+oh yes
+26 - Correc [76]
+oh yes
+27 - Correc [79]
+28 - Incorrec
+29 - Correc [85]
+oh yes
+30 - Correc [88]
+31 - Incorrec
+oh yes
+32 - Correc [94]
+33 - Incorrec
+34 - Incorrec
+oh yes
+35 - Correc [103]
+oh yes
+36 - Correc [106]
+37 - Incorrec
+38 - Correc [112]
+39 - Incorrec
+40 - Incorrec
+41 - Incorrec
+oh yes
+42 - Correc [124]
+43 - Incorrec
+44 - Incorrec
+oh yes
+45 - Correc [133]
+46 - Incorrec
+oh yes
+47 - Correc [139]
+48 - Correc [142]
+49 - Incorrec
+oh yes
+50 - Correc [148]
+51 - Incorrec
+oh yes
+52 - Correc [154]
+53 - Incorrec
+54 - Incorrec
+55 - Correc [163]
+56 - Correc [166]
+oh yes
+57 - Correc [169]
+58 - Incorrec
+59 - Incorrec
+60 - Correc [178]
+oh yes
+61 - Correc [181]
+oh yes
+62 - Correc [184]
+63 - Incorrec
+64 - Incorrec
+65 - Incorrec
+oh yes
+66 - Correc [196]
+67 - Incorrec
+68 - Correc [202]
+69 - Correc [205]
+70 - Incorrec
+71 - Correc [211]
+oh yes
+72 - Correc [214]
+73 - Correc [217]
+74 - Incorrec
+75 - Incorrec
+76 - Incorrec
+77 - Correc [229]
+78 - Incorrec
+79 - Correc [235]
+oh yes
+80 - Correc [238]
+81 - Incorrec
+oh yes
+82 - Correc [244]
+83 - Incorrec
+84 - Incorrec
+85 - Incorrec
+86 - Incorrec
+87 - Incorrec
+88 - Incorrec
+oh yes
+89 - Correc [265]
+oh yes
+90 - Correc [268]
+91 - Correc [271]
+oh yes
+92 - Correc [274]
+93 - Correc [277]
+94 - Incorrec
+95 - Correc [283]
+96 - Correc [286]
+oh yes
+97 - Correc [289]
+oh yes
+98 - Correc [292]
+99 - Incorrec
+100 - Incorrec
+oh yes
+101 - Correc [301]
+102 - Correc [304]
+103 - Incorrec
+oh yes
+104 - Correc [310]
+oh yes
+105 - Correc [313]
+106 - Incorrec
+107 - Incorrec
+108 - Correc [322]
+109 - Incorrec
+110 - Correc [328]
+111 - Correc [331]
+112 - Incorrec
+oh yes
+113 - Correc [337]
+114 - Incorrec
+115 - Incorrec
+oh yes
+116 - Correc [346]
+117 - Incorrec
+oh yes
+118 - Correc [352]
+119 - Incorrec
+oh yes
+120 - Correc [358]
+121 - Correc [361]
+oh yes
+122 - Correc [364]
+123 - Incorrec
+oh yes
+124 - Correc [370]
+125 - Incorrec
+oh yes
+126 - Correc [376]
+127 - Incorrec
+128 - Correc [382]
+129 - Correc [385]
+130 - Incorrec
+131 - Correc [391]
+132 - Correc [394]
+133 - Incorrec
+134 - Correc [400]
+135 - Incorrec
+136 - Incorrec
+137 - Incorrec
+oh yes
+138 - Correc [412]
+139 - Incorrec
+140 - Correc [418]
+141 - Incorrec
+142 - Incorrec
+143 - Correc [427]
+144 - Correc [430]
+145 - Incorrec
+oh yes
+146 - Correc [436]
+oh yes
+147 - Correc [439]
+oh yes
+148 - Correc [442]
+149 - Incorrec
+150 - Correc [448]
+[
+    1,   2,   3,   5,   6,   7,   8,  10,  11,  13,  15,  23,
+   26,  27,  29,  30,  32,  35,  36,  38,  42,  45,  47,  48,
+   50,  52,  55,  56,  57,  60,  61,  62,  66,  68,  69,  71,
+   72,  73,  77,  79,  80,  82,  89,  90,  91,  92,  93,  95,
+   96,  97,  98, 101, 102, 104, 105, 108, 110, 111, 113, 116,
+  118, 120, 121, 122, 124, 126, 128, 129, 131, 132, 134, 138,
+  140, 143, 144, 146, 147, 148, 150
+]
+6081
